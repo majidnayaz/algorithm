@@ -30,6 +30,7 @@ public class sorting {
           if (arr1[j]>arr1[j+1]){
             arr1[j]
             why this one dont add contributiion
+            this just for testing 
           }
         }
       }
