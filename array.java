@@ -42,20 +42,4 @@ public class array{
       }
       System.out.print("the sum of this array is ");
       System.out.println(sum);
-	}
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	}}

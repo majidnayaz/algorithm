@@ -23,6 +23,17 @@ public class sorting {
       // the second smalist or largist elemnt until end of array
       // this code will sort backward
 
+      int []arr1={12,3,45,56,67,4,3,56};
+
+      for (int i=0;i<arr1.length;i++){
+        for (int j=0;i<arr1.length;j++){
+          if (arr1[j]>arr1[j+1]){
+            arr1[j]
+            why this one dont add contributiion
+            this just for testing after chanugn profile setting  and it wil lbe the last 
+          }
+        }
+      }
 
 
 
